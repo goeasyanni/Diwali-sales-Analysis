@@ -1,2 +1,2 @@
 # Diwali-sales-Analysis
-Using python anakysing diwali sales
+Using python analsying diwali sales.
